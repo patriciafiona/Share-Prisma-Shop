@@ -1,0 +1,3 @@
+https://github.com/s-yadav/react-number-format
+
+https://medium.com/wesionary-team/creating-favorites-list-using-localstorage-in-react-part-i-22692bc0f153

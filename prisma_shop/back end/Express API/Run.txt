@@ -1,0 +1,8 @@
+Jangan Lupa Nyalain XAMPP
+--------------------------------------------------------------------------------
+
+cd E:\Magang Prismalink\3. Agustus\prisma_shop\back end\Express API
+
+E:
+
+node index.js
